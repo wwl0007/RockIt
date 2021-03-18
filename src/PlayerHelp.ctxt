@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PlayerHelp
+comment0.text=\n\ Class\ to\ create\ a\ guide\ to\ help\ users\ understand\ the\ game\ when\ they\ hover\ over\ an\ object..\n\ \n\ @author\ War\ Eagle\ Studios\ \n\ @version\ 11/19/2020\n
+comment1.params=
+comment1.target=PlayerHelp()
+comment1.text=\n\ Constructor\ method\ for\ the\ PlayerHelp\ class.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ method\ for\ the\ PlayerHelp\ class.\n
+numComments=3

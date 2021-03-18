@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MainMenu
+comment0.text=\n\ Subclass\ of\ world\ designed\ to\ host\ the\ main\ menu\ screen.\n\ \n\ @author\ War\ Eagle\ Studios\ \n\ @version\ 11/19/2020\n
+comment1.params=
+comment1.target=MainMenu()
+comment1.text=\n\ Constructor\ method\ for\ the\ MainMenu\ class.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ method\ for\ the\ MainMenu\ class.\n\ If\ the\ start\ button\ is\ clicked,\ the\ user\ is\ taken\ to\ the\ game.\n\ If\ the\ learn\ button\ is\ clicked,\ the\ user\ is\ taken\ to\ the\ learning\ screen.\n\ If\ a\ character\ is\ clicked,\ the\ color\ of\ their\ outfit\ is\ set\ to\ the\ color\ that\ is\ clicked.\n
+numComments=3

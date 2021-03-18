@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ Class\ for\ the\ player\ character\ that\ is\ controlled\ by\ the\ user.\n\ \n\ @author\ War\ Eagle\ Studios\ \n\ @version\ 11/19/2020\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ method\ for\ the\ player\ class.\n\ Calls\ the\ checkMove\ method\ if\ a\ key\ is\ pressed.\n
+comment2.params=
+comment2.target=Player()
+comment2.text=\n\ Constructor\ method\ for\ the\ Player\ class.\n
+comment3.params=
+comment3.target=void\ checkMove()
+comment3.text=\n\ Method\ that\ allows\ user\ to\ control\ movement\ of\ a\ Player\ object.\n\ Pressing\ the\ 'w'\ key\ moves\ the\ player\ up.\n\ Pressing\ the\ 'a'\ key\ moves\ the\ player\ to\ the\ left.\n\ Pressing\ the\ 'd'\ key\ moves\ the\ player\ to\ the\ right.\n\ Pressing\ the\ 's'\ key\ moves\ the\ player\ down.\n\ Pressing\ the\ 'e'\ key\ collects\ an\ object\ and\ affects\ the\ score/lives\ count\ as\ appropriate.\n\ If\ a\ Player\ object\ contacts\ the\ teleporter\ tile,\ the\ Player\ object\ is\ transported\ back\ to\ the\ location\ with\ coordinates\ (0,0).\n
+comment4.params=
+comment4.target=Tile\ getCurrentTile()
+comment4.text=\n\ Method\ that\ returns\ the\ current\ tile\ the\ player\ is\ standing\ on.\n
+numComments=5

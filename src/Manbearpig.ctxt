@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Manbearpig
+comment0.text=\n\ Class\ that\ can\ be\ used\ to\ instantiate\ objects\ of\ a\ "Manbearpig",\ the\ main\ enemy\ in\ the\ game.\n\ \n\ @author\ War\ Eagle\ Studios\ \n\ @version\ 11/19/2020\n
+comment1.params=
+comment1.target=Manbearpig()
+comment1.text=\n\ Constructor\ method\ for\ the\ Manbearpig\ class.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ method\ for\ the\ Manbearpig\ class.\n\ Follows\ the\ player\ object\ based\ on\ its\ location.\n\ Ends\ the\ game\ if\ it\ contacts\ the\ player\ object.\n
+numComments=3

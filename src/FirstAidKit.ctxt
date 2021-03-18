@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FirstAidKit
+comment0.text=\n\ Class\ to\ create\ an\ actor\ object\ that\ gives\ the\ player\ an\ increase\ in\ lives\ when\ touched..\n\ \n\ @author\ War\ Eagle\ Studios\ \n\ @version\ 11/19/2020\n
+comment1.params=xCoord\ yCoord\ tileX\ tileY
+comment1.target=FirstAidKit(int,\ int,\ int,\ int)
+comment1.text=\n\ Constructor\ method\ for\ the\ FirstAidKit\ class.\n\ @param\ xCoord\ -\ x\ coordinate\ location\ where\ the\ first\ aid\ kit\ will\ be\ inserted.\n\ @param\ yCoord\ -\ y\ coordinate\ location\ where\ the\ first\ aid\ kit\ will\ be\ inserted.\n\ @param\ tileX\ -\ integer\ value\ of\ the\ x\ coordinate\ where\ tile\ is\ located.\n\ @param\ tileY\ -\ integer\ value\ of\ the\ y\ coordinate\ where\ tile\ is\ located.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ method\ for\ the\ FirstAidKit\ class.\n\ Makes\ first\ aid\ kit\ visibile\ if\ it\ is\ located\ on\ a\ tile.\n\ Heals\ player\ if\ the\ player\ touches\ the\ first\ aid\ kit.\n\ Removes\ itself\ from\ the\ world\ when\ a\ player\ touches\ it.\n
+numComments=3

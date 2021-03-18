@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=QuestionMark
+comment0.text=\n\ Class\ to\ provide\ an\ image\ for\ users\ to\ understand\ the\ game\ if\ they\ hover\ over\ a\ QuestionMark\ object.\n\ This\ understanding\ is\ provided\ by\ a\ pop-up\ guide.\n\ \n\ @author\ War\ Eagle\ Studios\ \n\ @version\ 11/19/2020\n
+comment1.params=
+comment1.target=QuestionMark()
+comment1.text=\n\ Constructor\ for\ the\ QuestionMark\ class.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ method\ for\ the\ QuestionMark\ class.\n\ Display\ an\ interactive\ guide\ to\ help\ players\ if\ the\ mouse\ hovers\ over\ a\ QuestionMark\ object.\n
+numComments=3

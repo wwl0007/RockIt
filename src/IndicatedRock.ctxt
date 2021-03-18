@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=IndicatedRock
+comment0.text=\n\ Class\ to\ create\ an\ actor\ object\ that\ indicates\ what\ rock\ should\ be\ collected.\n\ \n\ @author\ War\ Eagle\ Studios\ \n\ @version\ 11/19/2020\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ method\ for\ the\ IndicatedRock\ class.\n
+numComments=2

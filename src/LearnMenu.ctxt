@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LearnMenu
+comment0.text=\n\ Subclass\ of\ the\ world\ class\ designed\ to\ help\ users\ learn\ about\ three\ main\ types\ of\ rocks.\n\ \n\ @author\ War\ Eagle\ Studios\ \n\ @version\ 11/19/2020\n
+comment1.params=
+comment1.target=LearnMenu()
+comment1.text=\n\ Constructor\ method\ for\ the\ LearnMenu\ class.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ method\ for\ the\ LearnMenu\ class.\n\ Text\ on\ screen\ will\ change\ based\ on\ which\ image\ is\ clicked.\n
+numComments=3

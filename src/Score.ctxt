@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Score
+comment0.text=\n\ Class\ to\ create\ an\ interactive\ scoreboard\ for\ users.\n\ \n\ @author\ War\ Eagle\ Studios\ \n\ @version\ 11/19/2020\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ method\ for\ the\ Score\ class.\n
+comment2.params=display\ scoreNum
+comment2.target=Score(java.lang.String,\ int)
+comment2.text=\n\ Constructor\ method\ for\ the\ Score\ class.\n\ @param\ display\ -\ text\ to\ be\ displayed\ on\ scoreboard.\n\ @param\ scoreNum\ -\ score\ number\ to\ be\ displayed\ on\ scoreboard.\n
+comment3.params=
+comment3.target=void\ update()
+comment3.text=\n\ Method\ to\ update\ scoreboard.\n\ Scoreboard\ updates\ based\ on\ rocks\ that\ are\ collected.\n\ Scoreboard\ can\ change\ based\ on\ the\ score\ displayed\ and\ the\ amount\ of\ lives\ a\ user\ has\ left.\n
+numComments=4

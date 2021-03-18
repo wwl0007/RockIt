@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PlayerSelection
+comment0.text=\n\ Class\ to\ conduct\ behavior\ as\ far\ as\ player\ selection\ goes.\n\ \n\ @author\ War\ Eagle\ Studios\ \n\ @version\ 11/19/2020\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ method\ for\ the\ PlayerSelection\ class.\n
+numComments=2

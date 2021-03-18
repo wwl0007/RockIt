@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Label
+comment0.text=\n\ Class\ to\ display\ a\ label\ on\ the\ screen\ while\ the\ program\ is\ running.\n\n\ @author\ War\ Eagle\ Studios\ \n\ @version\ 11/19/2020\n
+comment1.params=value\ fontSize
+comment1.target=Label(int,\ int)
+comment1.text=\n\ Constructor\ method\ to\ create\ a\ label\ and\ initialize\ it\ based\ on\ input\ values.\n\ @param\ value\ -\ integer\ value\ input\ for\ label.\n\ @param\ fontSize\ -\ font\ size\ input\ for\ label.\n
+comment2.params=value\ fontSize
+comment2.target=Label(java.lang.String,\ int)
+comment2.text=\n\ Additional\ Constructor\ Method\ for\ the\ Label\ class.\n\ @param\ value\ -\ value\ input\ for\ String\ being\ used\ in\ label.\n\ @param\ fontSize\ -\ font\ size\ input\ for\ the\ label.\n
+comment3.params=value
+comment3.target=void\ setValue(java.lang.String)
+comment3.text=\n\ Method\ to\ set\ the\ value\ of\ the\ String\ object\ used\ for\ a\ label.\n\ @param\ value\ -\ text\ input\ for\ the\ string\ displayed\ by\ a\ label.\n
+comment4.params=value
+comment4.target=void\ setValue(int)
+comment4.text=\n\ Method\ to\ set\ int\ value\ used\ in\ a\ label.\n\ @param\ value\ -\ input\ for\ the\ integer\ used\ in\ a\ label\ string.\n
+comment5.params=lineColor
+comment5.target=void\ setLineColor(greenfoot.Color)
+comment5.text=\n\ Method\ to\ set\ the\ color\ of\ the\ text\ used\ in\ a\ label.\n\ @param\ lineColor\ -\ color\ input\ for\ the\ text.\n
+comment6.params=fillColor
+comment6.target=void\ setFillColor(greenfoot.Color)
+comment6.text=\n\ Method\ to\ set\ the\ fill\ color\ of\ the\ text\ used\ in\ a\ label.\n\ @param\ fillColor\ -\ color\ input\ for\ the\ fill\ color\ used\ in\ the\ text.\n
+comment7.params=
+comment7.target=void\ updateImage()
+comment7.text=\n\ Method\ to\ update\ the\ label\ image\ based\ on\ new\ parameter\ input\ from\ other\ methods.\n
+numComments=8

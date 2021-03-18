@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TileWorld
+comment0.text=\n\ A\ 10x10\ grid\ of\ tiles\ designed\ for\ this\ game.\n\ \n\ @author\ War\ Eagle\ Studios\ \n\ @version\ 11/19/2020\n
+comment1.params=x\ y
+comment1.target=TileWorld(int,\ int)
+comment1.text=\n\ Constructor\ for\ the\ TileWorld\ class.\n\ @param\ x\ -\ x\ coordinate\ of\ tile.\n\ @param\ y\ -\ y\ coordinate\ of\ tile.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ method\ for\ the\ TileWorld\ class.\n
+comment3.params=arr
+comment3.target=void\ setWeights(int[])
+comment3.text=\n\ Method\ to\ set\ the\ weights\ for\ tiles.\n\ @param\ arr\ -\ array\ input\ for\ an\ integer\ array\ holding\ tile\ weights.\n
+comment4.params=
+comment4.target=void\ genWorld()
+comment4.text=\n\ Method\ to\ generate\ a\ world\ made\ of\ tiles\ using\ iteration.\n
+comment5.params=x\ y\ newTile
+comment5.target=void\ changeTile(int,\ int,\ Tile)
+comment5.text=\n\ Method\ to\ change\ the\ tile\ at\ a\ certain\ location.\n\ @param\ x\ -\ x\ coordinate\ of\ tile\ being\ changed.\n\ @param\ y\ -\ y\ coordinate\ of\ tile\ being\ changed.\n\ @param\ newTile\ -\ new\ tile\ object\ being\ inserted.\n
+comment6.params=
+comment6.target=int\ getRoll()
+comment6.text=\n\ Method\ to\ get\ the\ roll\ of\ a\ tile\ based\ on\ weights.\n
+numComments=7

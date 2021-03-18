@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\n\ Class\ to\ created\ buttons\ for\ the\ menu\ pages.\n\ \n\ @author\ War\ Eagle\ Studios\ \n\ @version\ 11/19/2020\n
+comment1.params=imageName
+comment1.target=Button(java.lang.String)
+comment1.text=\n\ Constructor\ method\ for\ the\ Button\ class.\n\ @param\ imageName\ -\ image\ input\ for\ the\ button\ class.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ method\ for\ the\ Button\ class.\n\ Sets\ the\ value\ of\ clicked\ to\ true\ if\ the\ mouse\ is\ clicked.\n
+numComments=3

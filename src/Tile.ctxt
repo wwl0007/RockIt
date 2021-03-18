@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Tile
+comment0.text=\n\ Class\ to\ create\ tiles\ that\ are\ used\ in\ the\ game.\n\ \n\ @author\ War\ Eagle\ Studios\ \n\ @version\ 11/19/2020\n
+comment1.params=img\ tileType
+comment1.target=Tile(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ method\ for\ the\ Tile\ class.\n\ @param\ img\ -\ image\ of\ tile\ being\ created.\n\ @param\ tileType\ -\ type\ of\ tile\ being\ created.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ method\ for\ the\ Tile\ class.\n
+comment3.params=img
+comment3.target=void\ changeImage(java.lang.String)
+comment3.text=\n\ Method\ to\ change\ the\ image\ of\ a\ tile.\n\ @param\ img\ -\ new\ image\ to\ be\ used\ for\ the\ tile.\n
+numComments=4
